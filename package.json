@@ -1,0 +1,16 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Saurabh Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
