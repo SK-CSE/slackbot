@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Saurabh Kumar",
@@ -12,5 +12,8 @@
   "dependencies": {
     "axios": "^0.18.0",
     "slackbots": "^1.1.0"
+  },
+  "engines": {
+    "node": "10.4.0"
   }
 }
